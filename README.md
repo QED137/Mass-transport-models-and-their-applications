@@ -52,7 +52,7 @@ These equations enumerate all possible ways in which a site with mass \( m \) ma
 6th term: Gain term due to adsorption of a unit mass with rate \( q \) at a randomly chosen site having mass less than \( m \).
 
 *MF approximation allows treating each site independently; otherwise, rate equations will contain complicated terms which may make the equation hard to solve.
-![Schemeatic diagram fragmentation](home/graviton/Downloads/pic1.png)
+![Schemeatic diagram fragmentation](pic1.png)
 
 # computational 
 ## Simple Jupyter File:
